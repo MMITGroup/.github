@@ -1,12 +1,5 @@
-## Hi there 👋
+**Magnetic Measurement and Imaging Technology (MMIT) @ TU Braunschweig**
 
-<!--
+Developing next-generation magnetic technologies for biomedical imaging, diagnostics, and therapy. We work with superparamagnetic iron oxide nanoparticles (SPIONs) to build radiation-free imaging systems (like Magnetic Particle Imaging), ultra-sensitive bioassays (via Magnetic Particle Spectroscopy), and magnetic hyperthermia platforms for localized drug delivery. Our research spans custom hardware, signal processing, and magnetic nanoparticle physics to enable real-time, quantitative, and non-invasive medical and industrial applications.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*Diagnostic Imaging • Biosensing • Magnetic Nanoparticles • Localized Therapies*
